@@ -1,0 +1,1 @@
+docker build -t bpmn-io:1.5 .
